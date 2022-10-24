@@ -1,0 +1,8 @@
+    body {background-color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+h1{color: green;}
+    h2#principal{background-color: black; color: aliceblue;}
+    div:hover {color: darkred;}
+    div > p{display: none;}
+    div:hover > p{display: block;}
